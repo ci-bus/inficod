@@ -1,0 +1,2 @@
+# inficod
+Infinite JavaScript Framework
